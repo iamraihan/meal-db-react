@@ -13,4 +13,7 @@
 .cart-container{
     background-color: #ffe0b3;
     width: 350px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
 }
